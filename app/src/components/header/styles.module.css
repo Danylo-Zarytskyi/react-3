@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 52px;
+    border: 1px solid #00000099;
+    background: linear-gradient(180deg, #484E55 0%, #3A3F44 60%, #313539 100%);
+    box-shadow: 0px 4px 4px 0px #00000040;
+    border-radius: 6px;
+}
+.svg {
+    padding: 16px;
+}
+.tools {
+    margin-right: 50px;
+    color: white;
+    display: flex;
+    padding: 13px;
+}
+.home {
+    width: 70px;
+    height: 50px;
+}
+.about {
+    width: 70px;
+    height: 50px;
+}
+.doccumentation {
+    width: 70px;
+    height: 50px;
+}

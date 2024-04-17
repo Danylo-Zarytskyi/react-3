@@ -1,0 +1,18 @@
+.title {
+    color: white;
+    font-size: 16.73px;
+    font-weight: 500;
+    line-height: 19.8px;
+}
+.content {
+    color: white;
+    font-size: 13.02px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+}
+.cont {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
